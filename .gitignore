@@ -1,0 +1,9 @@
+# --- Secrets – never commit these ---
+.env
+
+# SWI-Prolog compiled files
+*.qlf
+
+# OS noise
+Thumbs.db
+.DS_Store
